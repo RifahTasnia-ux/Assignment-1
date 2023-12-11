@@ -1,5 +1,3 @@
-import 'package:dart1/dart1.dart' as dart1;
-
 abstract class Role {
   void displayRole();
 }
